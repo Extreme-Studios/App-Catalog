@@ -17,7 +17,7 @@
   },
   {
     "appName": "Photography Invoice",
-    "packageName": "com.extremestudios.photographyinvoice",
+    "packageName": "com.extremestudios.photographyinvoicelite",
     "version": "5.2.0",
     "versionCode": 4,
     "description": "Aplikasi pengganti nota. berguna untuk fotografer photobooth dan photobooth street.",
