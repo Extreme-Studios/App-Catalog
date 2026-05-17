@@ -9,7 +9,7 @@
   },
   {
     "appName": "Kasirku",
-    "packageName": "com.extremestudios.autocutvideo",
+    "packageName": "com.extremestudios.kasirku",
     "version": "1.3.0",
     "versionCode": 2,
     "description": "Aplikasi pembuat cuplikan dan highlight.",
@@ -17,15 +17,15 @@
   },
   {
     "appName": "Photography Invoice",
-    "packageName": "com.extremestudios.autocutvideo",
+    "packageName": "com.extremestudios.photographyinvoice",
     "version": "5.2.0",
     "versionCode": 4,
-    "description": "Aplikasi pengganti nota. berguna untuk fotografe  photobooth dan photobooth street.",
+    "description": "Aplikasi pengganti nota. berguna untuk fotografer photobooth dan photobooth street.",
     "downloadUrl": "https://github.com/Extreme-Studios/Extreme-Studios-HUB/releases/download/v1.0.0/Photography.Invoice.V5.2.apk"
   },
   {
     "appName": "Pas Photo Layout",
-    "packageName": "com.extremestudios.autocutvideo",
+    "packageName": "com.extremestudios.pasphotolayout",
     "version": "1.2.3",
     "versionCode": 13,
     "description": "Aplikasi pembuatan layout untuk cetak pas photo sekolah dengan 2 ukuran kertas. 4r da 10rs",
