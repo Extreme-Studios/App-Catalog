@@ -1,5 +1,14 @@
 [
   {
+    "appName": "Extreme Studios HUB",
+    "packageName": "com.extremestudios.extremestudioshub",
+    "version": "1.9.3",
+    "versionCode": 3,
+    "category": "Semua",
+    "description": "Aplikasi pengganti playstore. Galeri khusus Extreme Studios. Semua gratis fitur pro, silahkan manfaatkan fitur request apk. Aplikasi yang digunakan banyak orang dan sering di gunakan akan di utamakan requestnya.",
+    "downloadUrl": "https://github.com/Extreme-Studios/Extreme-Studios-HUB/releases/download/v1.0.0/Extreme.Studios.HUB.1.9.3.3.apk"
+  },  
+  {
     "appName": "Auto Cut Video",
     "packageName": "com.extremestudios.autocutvideo",
     "version": "1.0.0",
@@ -34,15 +43,6 @@
     "category": "Photography",
     "description": "Aplikasi pembuatan layout untuk cetak pas photo sekolah dengan 2 ukuran kertas. 4r da 10rs",
     "downloadUrl": "https://github.com/Extreme-Studios/Extreme-Studios-HUB/releases/download/v1.0.0/Pas.Photo.Layout.v1.2.4.13.apk"
-  },
-  {
-    "appName": "Extreme Studios HUB",
-    "packageName": "com.extremestudios.extremestudioshub",
-    "version": "1.8.3",
-    "versionCode": 3,
-    "category": "Semua",
-    "description": "Aplikasi pengganti playstore. Galeri khusus Extreme Studios. Semua gratis fitur pro, silahkan manfaatkan fitur request apk. Aplikasi yang digunakan banyak orang dan sering di gunakan akan di utamakan requestnya.",
-    "downloadUrl": "https://github.com/Extreme-Studios/Extreme-Studios-HUB/releases/download/v1.0.0/Extreme.Studios.HUB.1.8.3.3.apk"
   },
   {
     "appName": "Musicman Evo",
