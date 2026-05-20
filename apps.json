@@ -2,11 +2,11 @@
   {
     "appName": "Extreme Studios HUB",
     "packageName": "com.extremestudios.extremestudioshub",
-    "version": "1.9.5",
-    "versionCode": 5,
+    "version": "1.9.8",
+    "versionCode": 7,
     "category": "Semua",
     "description": "Aplikasi pengganti playstore. Galeri khusus Extreme Studios. Semua gratis fitur pro, silahkan manfaatkan fitur request apk. Aplikasi yang digunakan banyak orang dan sering di gunakan akan di utamakan requestnya.",
-    "downloadUrl": "https://github.com/Extreme-Studios/Extreme-Studios-HUB/releases/download/v1.0.0/Extreme.Studios.HUB.1.9.5.5.apk"
+    "downloadUrl": "https://github.com/Extreme-Studios/Extreme-Studios-HUB/releases/download/v1.0.0/Extreme.Studios.HUB.1.9.8.7.apk"
   },  
   {
     "appName": "Auto Cut Video",
@@ -47,11 +47,11 @@
   {
     "appName": "Musicman Evo",
     "packageName": "com.extremestudios.musicmanevo",
-    "version": "1.2.4",
-    "versionCode": 2,
+    "version": "1.2.7",
+    "versionCode": 3,
     "category": "Music",
     "description": "Aplikasi pengganti playstore. Galeri khusus Extreme Studios. Semua gratis fitur pro, silahkan manfaatkan fitur request apk. Aplikasi yang digunakan banyak orang dan sering di gunakan akan di utamakan requestnya.",
-    "downloadUrl": "https://github.com/Extreme-Studios/Extreme-Studios-HUB/releases/download/v1.0.0/Musicman.Evo.v1.2.4.2.apk"
+    "downloadUrl": "https://github.com/Extreme-Studios/Extreme-Studios-HUB/releases/download/v1.0.0/Musicman.Evo.v1.2.7.3.apk"
   },
   {
     "appName": "Sidoarjo Music HUB",
