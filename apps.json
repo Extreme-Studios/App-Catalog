@@ -88,5 +88,14 @@
     "category": "Videography",
     "description": "Aplikasi Streaming Film Indie Dan kebudayaan di sekitar lingkungan PARFI.",
     "downloadUrl": "https://github.com/Extreme-Studios/Extreme-Studios-HUB/releases/download/v1.0.0/PARFI.FIlm.Dan.Budaya.v1.1.8.1.apk"
+  },
+  {
+    "appName": "Cine Arena",
+    "packageName": "com.extremestudios.cinearena",
+    "version": "1.3.7",
+    "versionCode": 2,
+    "category": "Videography",
+    "description": "Aplikasi Streaming Film Indie Khusus Pelajar.",
+    "downloadUrl": "https://github.com/Extreme-Studios/Extreme-Studios-HUB/releases/download/v1.0.0/Cine.Arena.v1.3.7.2.apk"
   }
 ]
